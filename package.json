@@ -6,9 +6,6 @@
     "type": "git",
     "url": "git+https://github.com/craftzdog/react-native-animated-todo.git"
   },
-  "author": {
-    "name": "Shoumik Sahu"
-  },
   "license": "MIT",
   "keywords": [
     "react-native",
